@@ -245,10 +245,6 @@ nav ul li a {
   justify-content: center;
   flex-direction: column;
 }
-
-
-/*-------------- JS type colod code ----------------*/
-
 .header-content h1 {
   font-size: 40px;
   font-weight: 700;
@@ -256,7 +252,6 @@ nav ul li a {
   text-transform: uppercase;
   color: #00ff00;
 }
-
 .header-content p {
   font-size: 13px;
   letter-spacing: 5px;
